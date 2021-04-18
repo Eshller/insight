@@ -6,8 +6,7 @@ body{
     background-image: url('./images/bg9.jpg');
 }
 .container{
-    background-image: url('./images/blackbg4.jpg');
-    background-color: black;
+    background-image: url("images/bg9.jpg");
 }
 .headingtag{
     text-align: end;
