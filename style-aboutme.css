@@ -3,10 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 body{
-    background-image: url(images/bg9.jpg);
+    background-image: url("images/bg9.jpg");
 }
 .container{
-    background-image: url(images/blackbg4.jpg);
+    background-image: url("images/blackbg4.jpg");
     background-color: black;
 }
 .headingtag{
