@@ -51,3 +51,14 @@ body{
     color: white;
     text-shadow: 4px 5px #2af634;
 }
+a{
+    color:rgb(21, 223, 241);
+    /* text-decoration: none; */
+    transition: all 0.5s ease-in-out;
+}
+a:hover{
+    transition: all 0.5s ease-in-out;
+    margin: 10px;
+    padding-top: 20px;
+    
+}
