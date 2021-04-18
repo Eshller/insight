@@ -174,7 +174,7 @@ transform: rotateY(180deg);
 .text-center{
     margin: 0;
     padding: 0;
-    background-image: url(/images/design4.jpg);
+    background-image: url('./images/design4.jpg');
     background-size: cover;
 }
 .centers{
